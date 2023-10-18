@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="author" content="Webestica.com">
+	<meta name="description" content="Eduport- LMS, Education and Course Theme">
+	<title>@ViewData["Title"] - Zeal_Education_Management</title>
+
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="~/assets/images/favicon.ico">
+
+	<!-- Google Font -->
+	<link rel="preconnect" href="https://fonts.googleapis.com/">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&amp;family=Roboto:wght@400;500;700&amp;display=swap">
+
+	<!-- Plugins CSS -->
+	<link rel="stylesheet" type="text/css" href="~/assets/vendor/font-awesome/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="~/assets/vendor/bootstrap-icons/bootstrap-icons.css">
+	<link rel="stylesheet" type="text/css" href="~/assets/vendor/apexcharts/css/apexcharts.css">
+	<link rel="stylesheet" type="text/css" href="~/assets/vendor/overlay-scrollbar/css/overlayscrollbars.min.css">
+
+	<!-- Theme CSS -->
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+	<!-- Theme CSS -->
+	<link rel="stylesheet" type="text/css" href="~/assets/css/style.css">
+  
+</head>
+<body>
+
+	<!-- **************** MAIN CONTENT START **************** -->
+	<main>
+
+		<!-- Sidebar START -->
+		<nav class="navbar sidebar navbar-expand-xl navbar-dark bg-dark">
+
+			<!-- Navbar brand for xl START -->
+			<div class="d-flex align-items-center">
+				<a class="navbar-brand" href="index-2.html">
+					<img class="navbar-brand-item" src="assets/images/logo-light.svg" alt="">
+				</a>
+			</div>
+			<!-- Navbar brand for xl END -->
+
+			<div class="offcanvas offcanvas-start flex-row custom-scrollbar h-100" data-bs-backdrop="true" tabindex="-1" id="offcanvasSidebar">
+				<div class="offcanvas-body sidebar-content d-flex flex-column bg-dark">
+
+					<!-- Sidebar menu START -->
+					<ul class="navbar-nav flex-column" id="navbar-sidebar">
+
+						<!-- Menu item 1 -->
+						<li class="nav-item"><a href="admin-dashboard.html" class="nav-link active"><i class="bi bi-house fa-fw me-2"></i>Dashboard</a></li>
+
+						<!-- Title -->
+						<li class="nav-item ms-2 my-2">Pages</li>
+
+						<!-- menu item 2 -->
+						<li class="nav-item">
+							<a class="nav-link" data-bs-toggle="collapse" href="#collapsepage" role="button" aria-expanded="false" aria-controls="collapsepage">
+								<i class="bi bi-basket fa-fw me-2"></i>Courses
+							</a>
+							<!-- Submenu -->
+							<ul class="nav collapse flex-column" id="collapsepage" data-bs-parent="#navbar-sidebar">
+								<li class="nav-item"> <a class="nav-link" href="admin-course-list.html">All Courses</a></li>
+								<li class="nav-item"> <a class="nav-link" href="admin-course-category.html">Course Category</a></li>
+								<li class="nav-item"> <a class="nav-link" href="admin-course-detail.html">Course Detail</a></li>
+							</ul>
+						</li>
+
+						<!-- Menu item 3 -->
+						<li class="nav-item"> <a class="nav-link" href="admin-student-list.html"><i class="fas fa-user-graduate fa-fw me-2"></i>Students</a></li>
+
+						<!-- Menu item 4 -->
+						<li class="nav-item">
+							<a class="nav-link" data-bs-toggle="collapse" href="#collapseinstructors" role="button" aria-expanded="false" aria-controls="collapseinstructors">
+								<i class="fas fa-user-tie fa-fw me-2"></i>Instructors
+							</a>
+							<!-- Submenu -->
+							<ul class="nav collapse flex-column" id="collapseinstructors" data-bs-parent="#navbar-sidebar">
+								<li class="nav-item"> <a class="nav-link" href="admin-instructor-list.html">Instructors</a></li>
+								<li class="nav-item"> <a class="nav-link" href="admin-instructor-detail.html">Instructor Detail</a></li>
+								<li class="nav-item">
+									<a class="nav-link" href="admin-instructor-request.html">
+										Instructor requests
+										<span class="badge text-bg-success rounded-circle ms-2">2</span>
+									</a>
+								</li>
+							</ul>
+						</li>
+
+						<!-- Menu item 5 -->
+						<li class="nav-item"> <a class="nav-link" href="admin-review.html"><i class="far fa-comment-dots fa-fw me-2"></i>Reviews</a></li>
+
+						<!-- Menu item 6 -->
+						<li class="nav-item"> <a class="nav-link" href="admin-earning.html"><i class="far fa-chart-bar fa-fw me-2"></i>Earnings</a></li>
+
+						<!-- Menu item 7 -->
+						<li class="nav-item"> <a class="nav-link" href="admin-setting.html"><i class="fas fa-user-cog fa-fw me-2"></i>Admin Settings</a></li>
+
+						<!-- Menu item 8 -->
+						<li class="nav-item">
+							<a class="nav-link" data-bs-toggle="collapse" href="#collapseauthentication" role="button" aria-expanded="false" aria-controls="collapseauthentication">
+								<i class="bi bi-lock fa-fw me-2"></i>Authentication
+							</a>
+							<!-- Submenu -->
+							<ul class="nav collapse flex-column" id="collapseauthentication" data-bs-parent="#navbar-sidebar">
+								<li class="nav-item"> <a class="nav-link" href="sign-up.html">Sign Up</a></li>
+								<li class="nav-item"> <a class="nav-link" href="sign-in.html">Sign In</a></li>
+								<li class="nav-item"> <a class="nav-link" href="forgot-password.html">Forgot Password</a></li>
+								<li class="nav-item"> <a class="nav-link" href="admin-error-404.html">Error 404</a></li>
+							</ul>
+						</li>
+
+						<!-- Title -->
+						<li class="nav-item ms-2 my-2">Documentation</li>
+
+						<!-- Menu item 9 -->
+						<li class="nav-item"> <a class="nav-link" href="docs/index.html"><i class="far fa-clipboard fa-fw me-2"></i>Documentation</a></li>
+
+						<!-- Menu item 10 -->
+						<li class="nav-item"> <a class="nav-link" href="docs/changelog.html"><i class="fas fa-sitemap fa-fw me-2"></i>Changelog</a></li>
+					</ul>
+					<!-- Sidebar menu end -->
+					<!-- Sidebar footer START -->
+					<div class="px-3 mt-auto pt-3">
+						<div class="d-flex align-items-center justify-content-between text-primary-hover">
+							<a class="h5 mb-0 text-body" href="admin-setting.html" data-bs-toggle="tooltip" data-bs-placement="top" title="Settings">
+								<i class="bi bi-gear-fill"></i>
+							</a>
+							<a class="h5 mb-0 text-body" href="index-2.html" data-bs-toggle="tooltip" data-bs-placement="top" title="Home">
+								<i class="bi bi-globe"></i>
+							</a>
+							<a class="h5 mb-0 text-body" href="sign-in.html" data-bs-toggle="tooltip" data-bs-placement="top" title="Sign out">
+								<i class="bi bi-power"></i>
+							</a>
+						</div>
+					</div>
+					<!-- Sidebar footer END -->
+
+				</div>
+			</div>
+		</nav>
+		<!-- Sidebar END -->
+		@RenderBody()
+
+
+	</main>
+	
+	<!-- =======================
+	Footer START -->
+	<footer class="bg-dark p-3">
+		<div class="container">
+			<div class="row align-items-center">
+				<!-- Widget -->
+				<div class="col-md-4 text-center text-md-start mb-3 mb-md-0">
+					<!-- Logo START -->
+					<a href="index-2.html"> <img class="h-20px" src="assets/images/logo-light.svg" alt="logo"> </a>
+				</div>
+
+				<!-- Widget -->
+				<div class="col-md-4 mb-3 mb-md-0">
+					<div class="text-center text-white">
+						Copyrights ©2023 <a href="https://www.webestica.com/" target="_blank" " class="text-reset btn-link">Webestica</a>. All rights reserved.
+					</div>
+				</div>
+				<!-- Widget -->
+				<div class="col-md-4">
+					<!-- Rating -->
+					<ul class="list-inline mb-0 text-center text-md-end">
+						<li class="list-inline-item ms-2"><a href="#"><i class="text-white fab fa-facebook"></i></a></li>
+						<li class="list-inline-item ms-2"><a href="#"><i class="text-white fab fa-instagram"></i></a></li>
+						<li class="list-inline-item ms-2"><a href="#"><i class="text-white fab fa-linkedin-in"></i></a></li>
+						<li class="list-inline-item ms-2"><a href="#"><i class="text-white fab fa-twitter"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- =======================
+	Footer END -->
+@*
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>*@
+	<!-- Back to top -->
+	<div class="back-top"><i class="bi bi-arrow-up-short position-absolute top-50 start-50 translate-middle"></i></div>
+
+	<!-- Bootstrap JS -->
+	<script src="~/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+	<!-- Vendors -->
+	<script src="~/assets/vendor/purecounterjs/dist/purecounter_vanilla.js"></script>
+	<script src="~/assets/vendor/apexcharts/js/apexcharts.min.js"></script>
+	<script src="~/assets/vendor/overlay-scrollbar/js/overlayscrollbars.min.js"></script>
+
+	<!-- Template Functions -->
+	<script src="~/assets/js/functions.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+

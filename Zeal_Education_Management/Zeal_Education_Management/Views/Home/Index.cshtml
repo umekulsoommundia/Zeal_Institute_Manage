@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+
+    var userId = Context.Session.GetInt32("UserId");
+}
+
+@if (userId.HasValue)
+{
+    <p>User ID: @userId</p>
+}
+else
+{
+    <p>No user is logged in.</p>
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+ 

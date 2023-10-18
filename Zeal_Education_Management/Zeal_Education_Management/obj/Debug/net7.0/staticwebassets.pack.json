@@ -1,0 +1,2185 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Zeal_Education_Management.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Zeal_Education_Management.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\09.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\10.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\11.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\12.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\13.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\14.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\15.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\16.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\17.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\18.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\19.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\20.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\21.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\22.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\23.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\24.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\25.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\26.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\27.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\about\\28.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\28.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\08.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\09.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\10.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\11.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\avatar\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\12.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\08.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\3by4\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\3by4\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\3by4\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\3by4\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\3by4\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\3by4\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\3by4\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\3by4\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\3by4\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\3by4\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\3by4\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\3by4\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\3by4\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\3by4\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\bg\\3by4\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\3by4\\08.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\book\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\book\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\book\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\book\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\book\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\book\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\book\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\book\\book-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\book-bg.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\ae-card.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\ae-card.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\aftereffect.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\aftereffect.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\algolia.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\algolia.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\android.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\android.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\angular.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\angular.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\app-store.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\app-store.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\coca-cola.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\coca-cola.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\envato.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\envato.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\figma.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\figma.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\google-play.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\google-play.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\google.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\google.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\graduated.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\graduated.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\importio.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\importio.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\linkedin.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\linkedin.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\mastercard.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\mastercard.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\microsoft.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\microsoft.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\netflix.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\netflix.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\paypal.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\paypal.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\pencil.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\pencil.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\science.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\science.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\shippable.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\shippable.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\uni-logo-01.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\uni-logo-01.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\uni-logo-02.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\uni-logo-02.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\uni-logo-03.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\uni-logo-03.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\uni-logo-04.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\uni-logo-04.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\visa.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\visa.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\client\\yamaha.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\yamaha.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\08.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\09.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\10.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\11.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\12.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\13.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\14.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\15.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\16.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\17.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\18.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\19.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\20.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\21.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\22.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\23.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\24.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\25.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\courses\\4by3\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\courses\\4by3\\26.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\01.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\01.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\01.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\02.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\02.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\02.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\03.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\03.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\04.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\04.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\04.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\05.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\05.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\05.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\06.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\06.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\06.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\07.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\07.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\07.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\08.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\08.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\09.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\09.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\10.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\10.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\14.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\14.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\15.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\15.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\16.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\16.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\17.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\17.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\18.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\18.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\19.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\19.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\20.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\20.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\21.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\21.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\22.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\22.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\23.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\23.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\24.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\24.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\25.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\25.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\26.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\26.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\27.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\27.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\29.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\29.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\30.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\30.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\abc.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\abc.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\account.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\account.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\add-course.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\add-course.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\app-store.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\app-store.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\artist.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\artist.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\cart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\cart.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\category-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\category-1.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\category-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\category-2.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\child.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\child.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\coding.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\coding.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\coming-soon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\coming-soon.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\contact.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\contact.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\create-account.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\create-account.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\data-science.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\data-science.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\earn-money.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\earn-money.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\engineering.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\engineering.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\error404-01.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\error404-01.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\exam.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\exam.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\gallery.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\gallery.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\google-play.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\google-play.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\help-center.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\help-center.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\help.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\help.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\high-school.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\high-school.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\home.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\home.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\idea.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\idea.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\instructor-course.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\instructor-course.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\lego.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\lego.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\map.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\map.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\marketing.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\marketing.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\medal-badge.png",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\medal-badge.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\medal.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\medal.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\medical.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\medical.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\middle-school.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\middle-school.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\music.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\music.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\online.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\online.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\photography.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\photography.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\primary-school.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\primary-school.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\profit.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\profit.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\rocket.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\rocket.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\song.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\song.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\element\\sport.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\element\\sport.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\08.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\09.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\10.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\11.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\12.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\13.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\14.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\15.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\16.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\17.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\event\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\18.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\ar.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ar.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\au.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\cn.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\fr.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gr.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\in.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\in.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\it.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\it.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\nz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\nz.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\sp.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\sp.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\uk.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\uk.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\us.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\instructor\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instructor\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\instructor\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instructor\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\instructor\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instructor\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\instructor\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instructor\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\instructor\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instructor\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\instructor\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instructor\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\instructor\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instructor\\08.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\instructor\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instructor\\09.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\instructor\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instructor\\10.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\instructor\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instructor\\11.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\logo-light.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\logo-mobile-light.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-mobile-light.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\logo-mobile.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-mobile.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\pattern\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\01.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\pattern\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\02.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\pattern\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\03.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\pattern\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\04.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\pattern\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\05.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\university\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\university\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\university\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\university\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\videos\\1080p.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\videos\\1080p.mp4"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\videos\\360p.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\videos\\360p.mp4"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\videos\\720p.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\videos\\720p.mp4"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\videos\\audio.mp3",
+      "PackagePath": "staticwebassets\\assets\\images\\videos\\audio.mp3"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\videos\\en.vtt",
+      "PackagePath": "staticwebassets\\assets\\images\\videos\\en.vtt"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\videos\\fr.vtt",
+      "PackagePath": "staticwebassets\\assets\\images\\videos\\fr.vtt"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\images\\videos\\poster.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\videos\\poster.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\js\\functions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\functions.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\apexcharts\\css\\apexcharts.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\css\\apexcharts.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\apexcharts\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-iconsbf04.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-iconsbf04.woff"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-iconsbf04.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-iconsbf04.woff2"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\choices\\css\\choices.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\choices\\css\\choices.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\choices\\js\\choices.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\choices\\js\\choices.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\imagesLoaded\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\imagesLoaded\\imagesloaded.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\overlay-scrollbar\\css\\overlayscrollbars.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\overlay-scrollbar\\css\\overlayscrollbars.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\overlay-scrollbar\\js\\overlayscrollbars.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\overlay-scrollbar\\js\\overlayscrollbars.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\plyr\\plyr.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\plyr\\plyr.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\plyr\\plyr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\plyr\\plyr.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\purecounterjs\\dist\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounterjs\\dist\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\quill\\css\\quill.snow.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\css\\quill.snow.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\quill\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\js\\quill.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\stepper\\css\\bs-stepper.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\stepper\\css\\bs-stepper.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\sticky-js\\sticky.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\sticky-js\\sticky.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\tiny-slider\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tiny-slider\\tiny-slider.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\assets\\vendor\\tiny-slider\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tiny-slider\\tiny-slider.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\alerts.html",
+      "PackagePath": "staticwebassets\\docs\\alerts.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\css\\doc.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\css\\doc.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\css\\prism.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\css\\prism.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\about\\07.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\about\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\about\\12.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\about\\12.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\avatar\\01.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\avatar\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\avatar\\02.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\avatar\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\avatar\\03.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\avatar\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\avatar\\04.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\avatar\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\avatar\\05.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\avatar\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\avatar\\06.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\avatar\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\avatar\\07.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\avatar\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\avatar\\08.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\avatar\\08.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\avatar\\09.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\avatar\\09.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\01.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\02.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\03.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\04.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\06.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\07.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\3by4\\01.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\3by4\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\3by4\\02.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\3by4\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\3by4\\03.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\3by4\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\3by4\\04.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\3by4\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\3by4\\05.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\3by4\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\3by4\\06.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\3by4\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\3by4\\07.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\3by4\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\bg\\3by4\\08.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\bg\\3by4\\08.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\book\\02.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\book\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\book\\04.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\book\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\client\\angular.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\client\\angular.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\client\\app-store.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\client\\app-store.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\client\\figma.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\client\\figma.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\client\\google-play.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\client\\google-play.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\client\\science.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\client\\science.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\client\\uni-logo-01.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\client\\uni-logo-01.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\course\\4by3\\02.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\course\\4by3\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\course\\4by3\\23.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\course\\4by3\\23.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\04.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\04.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\05.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\05.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\05.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\05.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\06.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\06.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\07.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\07.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\08.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\08.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\14.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\14.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\17.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\17.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\medal-badge.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\medal-badge.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\medal.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\medal.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\element\\rocket.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\element\\rocket.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\files_after_gulp_install.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\files_after_gulp_install.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\flags\\fr.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\flags\\gr.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\flags\\sp.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\flags\\sp.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\flags\\uk.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\flags\\uk.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\gulp_install_step1.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\gulp_install_step1.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\gulp_install_step2.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\gulp_install_step2.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\header\\01.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\header\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\header\\02.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\header\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\header\\03.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\header\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\header\\04.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\header\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\header\\05.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\header\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\header\\06.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\header\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\header\\07.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\header\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\header\\08.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\header\\08.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\header\\main-bg.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\header\\main-bg.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\01.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\02.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\02.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\03.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\03.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\04.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\04.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\05.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\05.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\06.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\06.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\07.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\07.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\08.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\08.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\09.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\09.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\10.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\10.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\11.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\11.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\12.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\12.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\13.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\13.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\hero\\main-bg.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\hero\\main-bg.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\how_to_run_gulp.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\how_to_run_gulp.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\instructor\\01.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\instructor\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\logo-light.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\logo-light.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\pattern\\01.png",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\pattern\\01.png"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\university\\01.jpg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\university\\01.jpg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\images\\university\\uni-logo-02.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\images\\university\\uni-logo-02.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\js\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\js\\clipboard.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\js\\functions.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\js\\functions.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\js\\prism.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\js\\prism.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\js\\simple-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\js\\simple-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-iconsd862.woff",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-iconsd862.woff"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-iconsd862.woff2",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-iconsd862.woff2"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\choices\\css\\choices.min.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\choices\\css\\choices.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\choices\\js\\choices.min.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\choices\\js\\choices.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\flatpickr\\css\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\flatpickr\\css\\flatpickr.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\flatpickr\\js\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\flatpickr\\js\\flatpickr.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\font-awesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\overlay-scrollbar\\css\\overlayscrollbars.min.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\overlay-scrollbar\\css\\overlayscrollbars.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\plyr\\plyr.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\plyr\\plyr.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\plyr\\plyr.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\plyr\\plyr.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\purecounterjs\\dist\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\purecounterjs\\dist\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\tiny-slider\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\tiny-slider\\tiny-slider.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\assets\\vendor\\tiny-slider\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\docs\\assets\\vendor\\tiny-slider\\tiny-slider.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\avatar.html",
+      "PackagePath": "staticwebassets\\docs\\avatar.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\badges.html",
+      "PackagePath": "staticwebassets\\docs\\badges.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\breadcrumb.html",
+      "PackagePath": "staticwebassets\\docs\\breadcrumb.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\buttons.html",
+      "PackagePath": "staticwebassets\\docs\\buttons.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\card.html",
+      "PackagePath": "staticwebassets\\docs\\card.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\changelog.html",
+      "PackagePath": "staticwebassets\\docs\\changelog.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\choices.html",
+      "PackagePath": "staticwebassets\\docs\\choices.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\color-scheme.html",
+      "PackagePath": "staticwebassets\\docs\\color-scheme.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\contact-us.html",
+      "PackagePath": "staticwebassets\\docs\\contact-us.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\customization.html",
+      "PackagePath": "staticwebassets\\docs\\customization.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\dark-mode.html",
+      "PackagePath": "staticwebassets\\docs\\dark-mode.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\docs\\alerts.html",
+      "PackagePath": "staticwebassets\\docs\\docs\\alerts.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\flatpickr.html",
+      "PackagePath": "staticwebassets\\docs\\flatpickr.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\font-icons.html",
+      "PackagePath": "staticwebassets\\docs\\font-icons.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\fonts.html",
+      "PackagePath": "staticwebassets\\docs\\fonts.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\google-map.html",
+      "PackagePath": "staticwebassets\\docs\\google-map.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\gulp.html",
+      "PackagePath": "staticwebassets\\docs\\gulp.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\index.html",
+      "PackagePath": "staticwebassets\\docs\\index.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\logo-settings.html",
+      "PackagePath": "staticwebassets\\docs\\logo-settings.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\nav-and-tabs.html",
+      "PackagePath": "staticwebassets\\docs\\nav-and-tabs.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\page-loading.html",
+      "PackagePath": "staticwebassets\\docs\\page-loading.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\pagination.html",
+      "PackagePath": "staticwebassets\\docs\\pagination.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\progress.html",
+      "PackagePath": "staticwebassets\\docs\\progress.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\rtl.html",
+      "PackagePath": "staticwebassets\\docs\\rtl.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-header-1.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-header-1.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-header-2.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-header-2.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-header-3.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-header-3.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-header-4.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-header-4.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-header-5.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-header-5.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-header-6.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-header-6.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-header-7.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-header-7.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-header-8.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-header-8.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-1.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-1.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-10.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-10.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-11.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-11.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-12.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-12.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-13.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-13.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-2.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-2.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-3.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-3.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-4.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-4.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-5.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-5.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-6.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-6.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-7.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-7.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-8.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-8.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippet-hero-9.html",
+      "PackagePath": "staticwebassets\\docs\\snippet-hero-9.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippets-hero-banner.html",
+      "PackagePath": "staticwebassets\\docs\\snippets-hero-banner.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippets-hero-header.html",
+      "PackagePath": "staticwebassets\\docs\\snippets-hero-header.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\snippets.html",
+      "PackagePath": "staticwebassets\\docs\\snippets.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\sources-and-credits.html",
+      "PackagePath": "staticwebassets\\docs\\sources-and-credits.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\sticky-element.html",
+      "PackagePath": "staticwebassets\\docs\\sticky-element.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\support.html",
+      "PackagePath": "staticwebassets\\docs\\support.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\tiny-slider.html",
+      "PackagePath": "staticwebassets\\docs\\tiny-slider.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\university-admission-form.html",
+      "PackagePath": "staticwebassets\\docs\\university-admission-form.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\updates.html",
+      "PackagePath": "staticwebassets\\docs\\updates.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\utility-classes.html",
+      "PackagePath": "staticwebassets\\docs\\utility-classes.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\video-player.html",
+      "PackagePath": "staticwebassets\\docs\\video-player.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\docs\\video\\index.html",
+      "PackagePath": "staticwebassets\\docs\\video\\index.html"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal_Institute\\eproject_Zeal\\Zeal_Education_Management\\Zeal_Education_Management\\wwwroot\\public\\assets\\scripts\\index.html.tmp",
+      "PackagePath": "staticwebassets\\public\\assets\\scripts\\index.html.tmp"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Zeal_Education_Management.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Zeal_Education_Management.props",
+      "PackagePath": "build\\Zeal_Education_Management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Zeal_Education_Management.props",
+      "PackagePath": "buildMultiTargeting\\Zeal_Education_Management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Zeal_Education_Management.props",
+      "PackagePath": "buildTransitive\\Zeal_Education_Management.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

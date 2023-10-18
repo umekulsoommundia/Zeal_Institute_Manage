@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Zeal_Education_Management
+build_property.RootNamespace = Zeal_Education_Management
+build_property.ProjectDir = E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Admin/AdminSignup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5TaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Admin/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Admin/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Admin/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Auth/Forgotpassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxGb3Jnb3RwYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Auth/Signin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Auth/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Course/CourseAdded.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENvdXJzZUFkZGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Course/CreateCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENyZWF0ZUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Instructor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Job/CreateJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXENyZWF0ZUpvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Job/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/User/Signin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/User/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Website/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vtb5yba7zx
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-4s8y5g292x
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Shared/_LayoutInstructor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRJbnN0cnVjdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-iqzwafkyzu
+
+[E:/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal_Institute/eproject_Zeal/Zeal_Education_Management/Zeal_Education_Management/Views/Shared/_LayoutStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-h8x5750y71
